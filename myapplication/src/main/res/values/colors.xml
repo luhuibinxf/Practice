@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="blanchedalmond">#ffebcd</color><!-- 杏白色 -->
+    <color name="red">#ff0000</color>- <!-- 红色 -->
+    <color name="rosybrown">#bc8f8f</color>- <!-- 褐玫瑰红 -->
+    <color name="mediumorchid">#ba55d3</color>- <!-- 中粉紫色 -->
+</resources>

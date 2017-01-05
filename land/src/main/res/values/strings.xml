@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">幸福门票</string>
+    <string name="Welcome">欢迎来到童话世界!!!!!!</string>
+    <string name="name">用户名:</string>
+    <string name="Password">密码:</string>
+    <string name="land">登陆</string>
+    <string name="register">注册</string>
+    <string name="comeTo">童话世界欢迎您@@@@@@@@</string>
+    <string name="barkto">####因为你脸黑####</string>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="wo">我</string>
+    <string name="qindenglu">请登录</string>
+    <string name="yinhangka">银行卡</string>
+    <string name="anquanshezhi">安全设置</string>
+    <string name="youhuiquan">优惠券</string>
+    <string name="yaoqinghaoyou">邀请好友</string>
+    <string name="jifenshangcheng">积分商城</string>
+    <string name="yaoyiyao">摇一摇</string>
+    <string name="guanyuqianshengqian">关于钱生钱</string>
+    <string name="dengluchakanyouhuiquan">登陆查看优惠券</string>
+    <string name="yaoqinghaoyoudeyouhuiquan">邀请好友得优惠券</string>
+    <string name="dengluchakanjifen">登陆查看积分</string>
+</resources>

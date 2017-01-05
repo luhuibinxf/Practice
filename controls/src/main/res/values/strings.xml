@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">高级控件</string>
+    <string name="InterfaceOne">界面1</string>
+    <string name="InterfaceTwo">界面2</string>
+    <string name="InterfaceThree">界面3</string>
+    <string name="InterfaceFour">界面4</string>
+    <string name="back">返回</string>
+    <string name="name">姓名</string>
+    <string name="age">年龄</string>
+    <string name="sex">性别</string>
+    <string name="comeTo">欢迎来到和平世界</string>
+    <string name="hello">你好</string>
+    <string name="word">世界</string>
+    <string name="Value">传值</string>
+    <string name="Practice">练习</string>
+</resources>

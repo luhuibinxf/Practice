@@ -1,0 +1,1 @@
+include ':app', ':calc', ':land', ':controls', ':Custom', ':myapplication', ':animation', ':sms'

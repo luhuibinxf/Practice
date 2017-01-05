@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">自定义</string>
+    <string name="Title">标题</string>
+    <string name="content">内容</string>
+    <string name="price">价钱</string>
+    <string name="Number">数量</string>
+    <string name="comment">评论</string>
+</resources>
